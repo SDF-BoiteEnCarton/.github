@@ -2,7 +2,7 @@
 
 Welcome in the **BoiteEnCarton**! We are a collective of French modders and tabletop enthusiasts dedicated to bringing the charm of physical board games into the world of **Hytale**.
 
-Our mission is simple: take the games we love from our coffee tables and rebuild them, for the Hytale community.
+Our mission is simple: take the games we love from our coffee tables and rebuild them for the Hytale community.
 
 ---
 
